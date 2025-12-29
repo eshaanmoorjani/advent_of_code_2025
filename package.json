@@ -1,0 +1,28 @@
+{
+  "name": "advent_of_code_2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "day": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshaanmoorjani/advent_of_code_2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eshaanmoorjani/advent_of_code_2025/issues"
+  },
+  "homepage": "https://github.com/eshaanmoorjani/advent_of_code_2025#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

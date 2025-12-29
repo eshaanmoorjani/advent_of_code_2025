@@ -72,7 +72,6 @@ def find_least_button_presses_joltage(machine_info_index):
         )
 
 
-
     problem.solve()
     print(problem)
     print(value(problem.objective))
