@@ -1,1 +1,3 @@
-# advent_of_code_2025
+every year, i attempt the advent of code. 
+
+never do i actually finish it. 
